@@ -1,6 +1,8 @@
 # Pac-Man animation demo for C64
 
-Short Pac-Man animation demo written in 6510 assembly for the C64 as can be seen <a href="https://t.co/7PtWfYISMg">here</a> .
+Short Pac-Man animation demo written in 6510 assembly for the C64 as can be seen below:
+
+![PacMan animation](demo/animation.gif)
 
 The project was developed in <a href="https://www.ajordison.co.uk/">CBMPrg Studio</a> and can be imported in it easily and ran on a <a href="http://vice-emu.sourceforge.net/">VICE emulator</a>. 
 
